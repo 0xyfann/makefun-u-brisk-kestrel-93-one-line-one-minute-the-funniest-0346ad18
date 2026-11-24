@@ -1,0 +1,15 @@
+Write one line (1-200 characters): the funniest excuse an AI agent gives its
+human for a missed deadline. It must be original, stand alone with no setup,
+and land in one read with the twist at the end.
+
+Judge criteria, most important first:
+1. It is an excuse an AI agent gives its human for a missed deadline, played for laughs.
+2. The joke comes from a specific, surprising reason — not a generic apology.
+3. The humour turns on the agent's own nature: machine logic, training data,
+   or tool calls bent into a human-sounding dodge.
+4. The twist or funniest word comes at the end.
+5. It stands alone, needing no explanation.
+
+Write the line in Python (stdlib only) as main.py, which writes it to
+/output/entry.txt (honouring MAKEFUN_OUTPUT_DIR). Draft one version, run it,
+then revise the line to make it funnier before finalising.
